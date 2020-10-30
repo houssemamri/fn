@@ -9,7 +9,7 @@
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background-image: url(./blue.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/houssemamri/fn@main/blue.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   /* background: #ED213A;
@@ -50,7 +50,7 @@
   font-size: 20px;
 }
 .wtf{
-  background-image: url(./countbg.png);
+  background-image: url(https://cdn.jsdelivr.net/gh/houssemamri/fn@main/countbg.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -68,7 +68,7 @@
   align-items: center;
   /* height: 550px; */
   transition: height .5s;
-  background-image: url(orange.jpg);
+  background-image: url(https://cdn.jsdelivr.net/gh/houssemamri/fn@main/orange.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 550px;
